@@ -22,7 +22,7 @@ Primary objective was to gain the basic foundations of C# and created a simple b
 
 
 ## Demo
-![alt text]()
+![alt text](https://github.com/mandres2/RPS-in-C-sharp/blob/master/img/demo.gif?raw=true)
 
 ## Author
 
