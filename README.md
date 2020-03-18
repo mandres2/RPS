@@ -1,5 +1,7 @@
 # "Rock Paper Scissors"
 
+![alt text](https://thumbs.gfycat.com/RegalAssuredGossamerwingedbutterfly-max-1mb.gif)
+
 <h3>What is this application?</h3>
 
 Simplistic Desktop Console RPS game.
@@ -17,6 +19,10 @@ Primary objective was to gain the basic foundations of C# and created a simple b
 
 * <b> ```git push origin master``` the files into GitHub Profile via VS 2019 terminal</b>
 * <b> Link repository to Github <b>
+
+
+## Demo
+![alt text]()
 
 ## Author
 
