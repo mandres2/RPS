@@ -1,9 +1,5 @@
 # "Rock Paper Scissors"
 
-<h3>What is this application?</h3>
-
-Simplistic Desktop Console RPS game.
-
 ## Motive
 Primary objective was to gain the basic foundations of C# and created a simple back-end console RPS game. This game was intended to test my knowledge in understanding C# syntax and methodology.
 
