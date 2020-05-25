@@ -1,7 +1,5 @@
 # "Rock Paper Scissors"
 
-![alt text](https://thumbs.gfycat.com/RegalAssuredGossamerwingedbutterfly-max-1mb.gif)
-
 <h3>What is this application?</h3>
 
 Simplistic Desktop Console RPS game.
